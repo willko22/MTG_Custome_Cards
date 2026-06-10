@@ -1,0 +1,1 @@
+App used: https://github.com/MagicSetEditorPacks/Full-Magic-Pack/
